@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("さしすせそ")
         print("さしすせそ2")
         print("さしすせそ3")
+        print("さしすせそ4")
         
     }
 
