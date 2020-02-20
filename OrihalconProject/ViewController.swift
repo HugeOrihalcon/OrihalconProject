@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         
         print("あいうえお")
         print("かきくけこ")
+        print("さしすせそ")
+        print("さしすせそ2")
+        print("さしすせそ3")
+        print("さしすせそ4")
         
     }
 
